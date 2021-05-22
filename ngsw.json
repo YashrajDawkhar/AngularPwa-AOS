@@ -1,0 +1,85 @@
+{
+  "configVersion": 1,
+  "timestamp": 1621678758795,
+  "index": "/AngularPwa-AOS/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/AngularPwa-AOS/4.2ff86d46cf4061a109f4.js",
+        "/AngularPwa-AOS/favicon.ico",
+        "/AngularPwa-AOS/index.html",
+        "/AngularPwa-AOS/main.86f9c7c6d147d5ab0e95.js",
+        "/AngularPwa-AOS/manifest.webmanifest",
+        "/AngularPwa-AOS/polyfills.94daefd414b8355106ab.js",
+        "/AngularPwa-AOS/runtime.c693119f87e075968c62.js",
+        "/AngularPwa-AOS/scripts.8c895b14ac5afb48e4f9.js",
+        "/AngularPwa-AOS/styles.cb2023a307b720a9f504.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/AngularPwa-AOS/assets/icons/icon-128x128.png",
+        "/AngularPwa-AOS/assets/icons/icon-144x144.png",
+        "/AngularPwa-AOS/assets/icons/icon-152x152.png",
+        "/AngularPwa-AOS/assets/icons/icon-192x192.png",
+        "/AngularPwa-AOS/assets/icons/icon-384x384.png",
+        "/AngularPwa-AOS/assets/icons/icon-512x512.png",
+        "/AngularPwa-AOS/assets/icons/icon-72x72.png",
+        "/AngularPwa-AOS/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/AngularPwa-AOS/4.2ff86d46cf4061a109f4.js": "478ad54784345cd22f6644751f4e3dc47f0c65f4",
+    "/AngularPwa-AOS/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/AngularPwa-AOS/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/AngularPwa-AOS/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/AngularPwa-AOS/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/AngularPwa-AOS/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/AngularPwa-AOS/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/AngularPwa-AOS/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/AngularPwa-AOS/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/AngularPwa-AOS/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/AngularPwa-AOS/index.html": "d1800539eb0880eea90d7fdf285bd9137a513c7b",
+    "/AngularPwa-AOS/main.86f9c7c6d147d5ab0e95.js": "f223dc2179a2b3d5e7ccec4a31b141560ec2b443",
+    "/AngularPwa-AOS/manifest.webmanifest": "0d0b1780d219fd3ebcdd65e3da961d3671727a33",
+    "/AngularPwa-AOS/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/AngularPwa-AOS/runtime.c693119f87e075968c62.js": "45c62df8775fe68dd3d47d373022ea79322a44e6",
+    "/AngularPwa-AOS/scripts.8c895b14ac5afb48e4f9.js": "4a9c47c12b0a252ee4fab9b88e7006cb6b075fdf",
+    "/AngularPwa-AOS/styles.cb2023a307b720a9f504.css": "e8c5a9219db6a20170c01dfd248a8fce29d730cc"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
